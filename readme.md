@@ -14,4 +14,4 @@ Si descubres algun error dentro de la funcionalidad del sistema, por favor envia
 
 #### Notas Adicionales.
 
-Actualmente Service Helo Desk se encuentra en su etapa de desarrollo, la version 1.0 es una version release totalmente funcional, pero aun asi se pueden encontrar ciertos fallos. Para poder utilizar el sistema deberas descargar el repositorio y correrlo manualmente de manera local ya que aun no se encuentra en ningun hosting debido a que esta destinado para ser utilizado dentro de una intranet empresarial y no estara disponible en la web.
+Actualmente Service Help Desk se encuentra en su etapa de desarrollo, la version 1.0 es una version release totalmente funcional, pero aun asi se pueden encontrar ciertos fallos. Para poder utilizar el sistema deberas descargar el repositorio y correrlo manualmente de manera local ya que aun no se encuentra en ningun hosting debido a que esta destinado para ser utilizado dentro de una intranet empresarial y no estara disponible en la web.
